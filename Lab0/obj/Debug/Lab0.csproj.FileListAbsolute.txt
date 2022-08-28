@@ -1,0 +1,8 @@
+D:\My Projects\C#\Console\Lab0\Lab0\bin\Debug\Lab0.exe.config
+D:\My Projects\C#\Console\Lab0\Lab0\bin\Debug\Lab0.exe
+D:\My Projects\C#\Console\Lab0\Lab0\bin\Debug\Lab0.pdb
+D:\My Projects\C#\Console\Lab0\Lab0\obj\Debug\Lab0.csproj.AssemblyReference.cache
+D:\My Projects\C#\Console\Lab0\Lab0\obj\Debug\Lab0.csproj.SuggestedBindingRedirects.cache
+D:\My Projects\C#\Console\Lab0\Lab0\obj\Debug\Lab0.csproj.CoreCompileInputs.cache
+D:\My Projects\C#\Console\Lab0\Lab0\obj\Debug\Lab0.exe
+D:\My Projects\C#\Console\Lab0\Lab0\obj\Debug\Lab0.pdb
